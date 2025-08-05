@@ -1,4 +1,4 @@
-# �� Churn Prediction - Olist Dataset
+# Churn Prediction - Olist Dataset
 
 > **⚠️ Proyecto en desarrollo**  
 > Análisis exploratorio y modelo de predicción de churn usando el dataset de Olist.

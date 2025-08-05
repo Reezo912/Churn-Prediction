@@ -1,0 +1,14 @@
+# Core Data Science
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Geographic Analysis
+folium>=0.12.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.0.0

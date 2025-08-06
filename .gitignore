@@ -1,2 +1,3 @@
 data/raw/*.csv
 data/processed/*
+scripts/__pycache__/*

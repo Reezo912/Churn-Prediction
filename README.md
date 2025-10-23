@@ -1,6 +1,4 @@
-# Olist — Por qué **no** sirve para churn (y qué sí se puede hacer)
-
-> **Decisión del proyecto:** con este dataset **no es adecuado** modelar *churn real de clientes*.  
+# Olist — ¿Por qué **no** sirve para churn?
 
 ## 📋 Descripción
 
